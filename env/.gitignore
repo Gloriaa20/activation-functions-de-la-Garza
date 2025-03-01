@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Visual Studio Code settings
+.vscode/
+
+# Virtual environment directories
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Ignore any IDE-related files
+.idea/
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+coverage.xml
+*.coveragerc
+
+# PyCharm
+.idea/
